@@ -1,0 +1,33 @@
+* {
+    box-sizing: content-box;
+}
+
+html {
+
+}
+
+body {
+    font-size: 62.5%;
+    background-color: rgb(34, 34, 34);
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    font-size: 2em;
+    margin-right: 1em;
+    background-color: chocolate;
+    height: 2em;
+    width: 100%;
+    margin: 0;
+}
+.nav__element {
+    display: inline-block;
+    margin: 0 0 1em 1em;
+}
+
+.nav__element a {
+    text-decoration: none;
+    color: white;
+}
