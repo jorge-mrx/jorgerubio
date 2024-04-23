@@ -1,5 +1,5 @@
 <?php
-$variable = "hola";
+$variable = "holax";
 ?>
 <!DOCTYPE html>
 <html lang="en">
